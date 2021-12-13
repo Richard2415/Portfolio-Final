@@ -32,7 +32,7 @@ const Home = () => {
               <Button variant="" className="color-custom-blue p-0 mr-3 border-0" aria-label="linkedin" onClick={() => window.open('https://www.linkedin.com/in/richard-selvaraj-483039147/', '_blank')}><FontAwesomeIcon size="2x" icon={faLinkedin} /></Button>
               <Button variant="" className="color-custom-blue p-0 mr-3 border-0" aria-label="Email" onClick={() => window.open('mailto:richardselvaraj07@gmail.com?subject="Hello !"', '_blank')}><FontAwesomeIcon spin size="2x" icon={faEnvelopeSquare} /></Button>
             </div>
-            <Button className="bg-custom-blue font-weight-bold shadow-sm border-0 resume-btn" onClick={() => window.open('https://drive.google.com/file/d/1dZQnwRd8RMLAL9YB9EgWW3GEKMkEjXhv/view')}>View Resume</Button>
+            <Button className="bg-custom-blue font-weight-bold shadow-sm border-0 resume-btn" onClick={() => window.open('https://drive.google.com/file/d/1IPv7IjeqnREMH93gmsBT63v8ehHBD6EO/view')}>View Resume</Button>
           </Col>
           <Col className="w-100 my-auto d-none d-md-block">
             <DeveloperSvg />
