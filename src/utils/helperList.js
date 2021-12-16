@@ -103,7 +103,7 @@ export const projectsList = [{
   }]
 },
 {
-  label: 'Covid Trracker',
+  label: 'Covid Tracker',
   imgSrc: 'static/images/covidtracker.png',
   src: 'https://omicrontracker.netlify.app/',
   visit: 'https://github.com/Richard2415/Covid19-Tracker',
