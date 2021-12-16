@@ -107,7 +107,7 @@ export const projectsList = [{
   imgSrc: 'static/images/covidtracker.png',
   src: 'https://omicrontracker.netlify.app/',
   visit: 'https://github.com/Richard2415/Covid19-Tracker',
-  description: 'This web app can be used to track current and historical data of india and its states and union territories. This web app shows a vector map of india, user may hover any state and will able to see the total confirmed, recoverd,active and decreased for that state.There is also a state-wise table of covid data which can be sorted by any column.',
+  description: 'This web app can be used to track current and historical data of india and its states and union territories. This web app shows a vector map of india, user may hover any state and will able to see the total confirmed, recovered,active and decreased for that state.There is also a state-wise table of covid data which can be sorted by any column.',
   stack: [{
     label: 'React JS',
     src: '/static/icons/reactjs.svg',
@@ -127,7 +127,7 @@ export const projectsList = [{
   imgSrc: 'static/images/issuetrack.png',
   src: 'https://issuetrackernew.netlify.app/',
   visit: 'https://github.com/Richard2415/Issue-Tracker',
-  description: 'User can able to register theri issue in description box and also able to assign task to others and according to the type of issuee they are able to set the priority and able to see the current issues of others.',
+  description: 'User can able to register their issue in description box and also able to assign task to others and according to the type of issue they are able to set the priority and able to see the current issues of others.',
   stack: [{
     label: 'React JS',
     src: '/static/icons/reactjs.svg',
