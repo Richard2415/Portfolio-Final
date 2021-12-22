@@ -103,11 +103,11 @@ export const projectsList = [{
   }]
 },
 {
-  label: 'Covid Tracker',
-  imgSrc: 'static/images/covidtracker.png',
-  src: 'https://omicrontracker.netlify.app/',
-  visit: 'https://github.com/Richard2415/Covid19-Tracker',
-  description: 'This web app can be used to track current and historical data of india and its states and union territories. This web app shows a vector map of india, user may hover any state and will able to see the total confirmed, recovered,active and decreased for that state.There is also a state-wise table of covid data which can be sorted by any column.',
+  label: 'Expense Tracker',
+  imgSrc: 'static/images/expensetracker.png',
+  src: 'https://mernexpensetrackerproject.herokuapp.com/',
+  visit: 'https://github.com/Richard2415/Expense-Tracker',
+  description: 'This web app is a money manager can be used to track or helps to keep an accurate record of your money inflow and outflow.Many people in india lives on a fixed income and these application really helpful to meet their expenses.',
   stack: [{
     label: 'React JS',
     src: '/static/icons/reactjs.svg',
@@ -118,28 +118,34 @@ export const projectsList = [{
     label: 'CSS3',
     src: '/static/icons/css3.png'
   }, {
-    label: 'Material UI',
-    src: '/static/icons/material.svg'
-  }]
-},
-{
-  label: 'Issue Tracker',
-  imgSrc: 'static/images/issuetrack.png',
-  src: 'https://issuetrackernew.netlify.app/',
-  visit: 'https://github.com/Richard2415/Issue-Tracker',
-  description: 'User can able to register their issue in description box and also able to assign task to others and according to the type of issue they are able to set the priority and able to see the current issues of others.',
-  stack: [{
-    label: 'React JS',
-    src: '/static/icons/reactjs.svg',
+    label: 'Node JS',
+    src: '/static/icons/nodejs.svg',
   }, {
-    label: 'HTML5',
-    src: '/static/icons/html.png'
-  }, {
-    label: 'CSS3',
-    src: '/static/icons/css3.png'
+    label: 'Express JS',
+    src: '/static/icons/express.png'
   }, {
     label: 'MongoDB',
     src: '/static/icons/mongodb.png'
+  }]
+},
+{
+  label: 'Chatter',
+  imgSrc: 'static/images/chatterimg.png',
+  src: 'https://chatter-d6c43.web.app/',
+  visit: 'https://github.com/Richard2415/Chatter-App',
+  description: 'Chatter is simply a instant messaging app it can be used to communicate with friends in around world using the secured link address and hence to store and messages and share instant messages used Firebase as a realtime database .',
+  stack: [{
+    label: 'React JS',
+    src: '/static/icons/reactjs.svg',
+  }, {
+    label: 'HTML5',
+    src: '/static/icons/html.png'
+  }, {
+    label: 'CSS3',
+    src: '/static/icons/css3.png'
+  }, {
+    label: 'Firebase',
+    src: '/static/icons/fbase.png'
   }]
 },
 ];
