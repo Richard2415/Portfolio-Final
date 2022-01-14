@@ -60,11 +60,11 @@ export const skillsList = [{
 ];
 
 export const projectsList = [{
-  label: 'Flashback',
-  imgSrc: "static/images/Flashback.png",
-  src: 'https://flashbackapp.netlify.app/',
-  visit: 'https://github.com/Richard2415/Flashback-FrontEnd',
-  description: 'The App is called Flashback and it is a simple social media app that it recreates the golden memories and allows users to post interesting events that happened in their lives.',
+  label: 'Driver',
+  imgSrc: "static/images/ProfilePage.png",
+  src: 'https://truckdriverapp.herokuapp.com/',
+  visit: 'https://github.com/Richard2415/Driver-App',
+  description: 'The Truck Driver App it aims to help drivers to move to the digital world from paper and pen. Helping drivers to keep all information accessible at any time about their runs and trucks.Imagine no more scanning paperwork to email to other people, but instead just a simple screenshot of the summary page for the week or a specific day! And it all on your phone. More than that, this app is accessible on any device',
   stack: [{
     label: 'React JS',
     src: '/static/icons/reactjs.svg',
@@ -103,11 +103,11 @@ export const projectsList = [{
   }]
 },
 {
-  label: 'Expense Tracker',
-  imgSrc: 'static/images/expensetracker.png',
-  src: 'https://mernexpensetrackerproject.herokuapp.com/',
-  visit: 'https://github.com/Richard2415/Expense-Tracker',
-  description: 'This web app is a money manager can be used to track or helps to keep an accurate record of your money inflow and outflow.Many people in india lives on a fixed income and these application really helpful to meet their expenses.',
+  label: 'Contact Guardian',
+  imgSrc: 'static/images/contactguardian.png',
+  src: 'https://contact-guardian.herokuapp.com/',
+  visit: 'https://github.com/Richard2415/Contact-Guardian',
+  description: 'This Full Stack Application which allows user to Store their confidential contacts which can be viewed only by authenticated user.',
   stack: [{
     label: 'React JS',
     src: '/static/icons/reactjs.svg',
