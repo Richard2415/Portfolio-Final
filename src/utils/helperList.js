@@ -62,7 +62,7 @@ export const skillsList = [{
 export const projectsList = [{
   label: 'Driver',
   imgSrc: "static/images/ProfilePage.png",
-  src: 'https://truckdriverapp.herokuapp.com/',
+  src: 'https://driver-mern-app.herokuapp.com/',
   visit: 'https://github.com/Richard2415/Driver-App',
   description: 'The Truck Driver App it aims to help drivers to move to the digital world from paper and pen. Helping drivers to keep all information accessible at any time about their runs and trucks.Imagine no more scanning paperwork to email to other people, but instead just a simple screenshot of the summary page for the week or a specific day! And it all on your phone. More than that, this app is accessible on any device',
   stack: [{
