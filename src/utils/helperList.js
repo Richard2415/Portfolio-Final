@@ -107,7 +107,7 @@ export const projectsList = [{
   imgSrc: 'static/images/contactguardian.png',
   src: 'https://contact-guardian.herokuapp.com/',
   visit: 'https://github.com/Richard2415/Contact-Guardian',
-  description: 'This Full Stack Application which allows user to Store their confidential contacts which can be viewed only by authenticated user.',
+  description: 'This Application which allows user to Store their confidential contacts which can be viewed only by authenticated user.',
   stack: [{
     label: 'React JS',
     src: '/static/icons/reactjs.svg',
