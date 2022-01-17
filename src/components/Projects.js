@@ -18,8 +18,8 @@ const Projects = () => {
             <Col>
               <img className="img-fluid proj-image shadow" src={proj.imgSrc} alt={proj.label} loading="lazy" />
             </Col>
-            <Col className="pt-2">
-              <h3 className="font-weight-bold color-custom-blue mb-3">{proj.label}</h3><br />
+            <Col className="pt-1">
+              <h3 className="font-weight-bold color-custom-blue mb-1">{proj.label}</h3><br />
               {proj.description && <>
                 <span>{proj.description}</span><br /> <br />
               </>}
@@ -60,7 +60,7 @@ const Projects = () => {
                 {
                   proj.stack.map(obj => {
                     return (
-                      <img src={obj.src} alt="tools" style={{ width: '30px', height: '30px', margin: '2px 5px' }} />
+                      <img src={obj.src} alt="tools" style={{ width: '30px', height: '30px', margin: '2px 4px' }} />
                     )
                   })
                 }
