@@ -259,6 +259,10 @@ $primaryColorLight: #8d81a5;
   }
 }
 
-.mb-3 {
-  padding: 5px;
+.mb-3 col {
+  margin-left: 5px;
+}
+
+.MuiButton-containedSizeSmall {
+  padding: 4px 20px;
 }
