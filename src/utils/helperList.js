@@ -131,7 +131,7 @@ export const projectsList = [{
 {
   label: 'Chatter',
   imgSrc: 'static/images/chatterimg.png',
-  src: 'https://chatterapp-b268824.web.app/',
+  src: 'https://chatterapp-b268824.firebaseapp.com/',
   visit: 'https://github.com/Richard2415/Chatter-App',
   description: 'Chatter is simply a instant messaging app it can be used to communicate with friends in around world using the secured link address and hence to store and messages and share instant messages used Firebase as a realtime database .',
   stack: [{
